@@ -29,21 +29,6 @@ Meet my octocat 😆
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jjsanmartino03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jjsanmartino03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/julian-sanmartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-sanmartino" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11556186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11556186" height="30" width="40" /></a>
-<a href="https://kaggle.com/juliansanmartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juliansanmartino" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jjsanmartino03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjsanmartino03" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/julian-sanmartino](https://www.linkedin.com/in/jhonatan-ancona-herrera-992b091aa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jhonatan-ancona" height="30" width="40" /></a>
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-PHP             4 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.46 %
-Python          4 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.17 %
-TypeScript      51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-SQL             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Text            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-```
-
-<!--END_SECTION:waka-->

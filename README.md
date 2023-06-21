@@ -24,7 +24,7 @@ Meet my octocat 😆
 </p>
 
 ## Here's my contribution graph (with a snake!)
-<img src="https://github.com/TheJhoNY75/TheJhoNY75/blob/output/github-contribution-grid-snake.svg">
+<img src="[https://github.com/TheJhoNY75/TheJhoNY75/blob/output/github-contribution-grid-snake.svg](https://github.com/TheJhoNY75/TheJhoNY75/blob/output/github-contribution-grid-snake.svg)">
 </p>
   
 <h3 align="left">Connect with me:</h3>
